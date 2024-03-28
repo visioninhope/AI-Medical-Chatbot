@@ -7,9 +7,8 @@ The Llama-2-7B-Chat-GGML-Medical-Chatbot is a repository for a medical chatbot t
 ### 📚 Here are some of the features of the HOTLINE AI-CHATBOT TO ASSIST WELFARE HEALTH SCHEMES:
 
 • It uses the Llama-2-7B-Chat-GGML model, which is a large language model (LLM) that has been fine-tuned
-            ・Name - llama-2-7b-chat.ggmlv3.q2_K.bin
-   
-    ・Quant method - q2_K
+・Name - llama-2-7b-chat.ggmlv3.q2_K.bin
+      ・Quant method - q2_K
       ・Bits - 2
       ・Size - 2.87 GB
       ・Max RAM required - 5.37 GB
