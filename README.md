@@ -1,6 +1,6 @@
 ### HOTLINE AI-CHATBOT TO ASSIST WELFARE HEALTH SCHEMES🐍
 
-    The Llama-2-7B-Chat-GGML-Medical-Chatbot is a repository for a medical chatbot that uses the Llama-2-7B-Chat-GGML model and the pdf The Gale Encyclopedia of Medicine. The chatbot is still under development, but it has the potential to be a valuable tool for patients, healthcare professionals, and researchers. The chatbot can be used to answer questions about medical topics, provide summaries of medical articles, and generate medical text. However, it is important to note that the chatbot is not a substitute for medical advice from a qualified healthcare professional.
+The Llama-2-7B-Chat-GGML-Medical-Chatbot is a repository for a medical chatbot that uses the Llama-2-7B-Chat-GGML model and the pdf The Gale Encyclopedia of Medicine. The chatbot is still under development, but it has the potential to be a valuable tool for patients, healthcare professionals, and researchers. The chatbot can be used to answer questions about medical topics, provide summaries of medical articles, and generate medical text. However, it is important to note that the chatbot is not a substitute for medical advice from a qualified healthcare professional.
 
 <img width="822" alt="Screenshot 2024-03-27 at 8 24 08 PM" src="https://github.com/Shrishxok/Medical-Chatbot/assets/120294863/f113f87d-1e40-4a99-921f-285b402399c0">
 
